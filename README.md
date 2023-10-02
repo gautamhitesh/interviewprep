@@ -1,4 +1,4 @@
-# interviewprep
+# Interviewprep
 ## Everything that needs to be/was done for the interview preparation
 
 ## Index
@@ -80,6 +80,7 @@
     1.  Interfaces
     2.  Channels
     3.  Concurrency
+    4.  Go Routines
 6.  Java Concepts
     1.  Runtime polymorphism
     2.  OOPS
